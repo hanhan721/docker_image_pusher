@@ -7,7 +7,6 @@ tomcat:9.0-jdk8
 centos:centos7.9.2009
 elasticsearch:7.3.2
 kibana:7.3.2
-minio
 eosphorosai/dbgpt:latest
 
 #支持私库
