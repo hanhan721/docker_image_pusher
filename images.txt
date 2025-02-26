@@ -10,6 +10,14 @@ kibana:7.3.2
 eosphorosai/dbgpt:latest
 rabbitmq:management
 
+#rag-flow需要的镜像
+docker pull elasticsearch:8.11.3
+docker pull infiniflow/infinity:v0.6.0-dev3
+docker pull quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+docker pull valkey/valkey:8
+
+
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
