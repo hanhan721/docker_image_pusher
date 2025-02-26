@@ -3,7 +3,7 @@
 #mysql:5.7
 redis:6
 #nginx:1.27.2
-nginx:
+#nginx:
 #tomcat:9.0-jdk8
 #centos:centos7.9.2009
 #elasticsearch:7.3.2
