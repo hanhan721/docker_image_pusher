@@ -10,9 +10,10 @@
 #kibana:7.3.2
 #eosphorosai/dbgpt:latest
 #rabbitmq:management
+mongo:4.4
 
 #ollama web-ui
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 
 #rag-flow需要的镜像
 #elasticsearch:8.11.3
