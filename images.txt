@@ -10,7 +10,8 @@
 #kibana:7.3.2
 #eosphorosai/dbgpt:latest
 #rabbitmq:management
-mongo:4.4
+#mongo:4.4
+minio
 
 #ollama web-ui
 #ghcr.io/open-webui/open-webui:main
