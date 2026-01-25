@@ -1,7 +1,7 @@
-postgres:18-alpine
-redis:7.2-alpine
-
-
+#postgres:18-alpine
+#redis:7.2-alpine
+eclipse-temurin:25-jre-alpine
+eclipse-temurin:25-jdk-alpine
 #nginx
 #mysql:8.0
 #mysql:5.7
