@@ -2,7 +2,7 @@
 #redis:7.2-alpine
 #eclipse-temurin:25-jre-alpine
 #eclipse-temurin:25-jdk-alpine
-pgvector/pgvector:pg17
+#pgvector/pgvector:pg17
 #nginx
 #mysql:8.0
 #mysql:5.7
@@ -22,6 +22,8 @@ pgvector/pgvector:pg17
 #grafana/grafana:11.4.0
 #ollama web-ui
 #ghcr.io/open-webui/open-webui:main
+rustfs/rustfs:1.0.0-alpha.83
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
