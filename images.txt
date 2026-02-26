@@ -22,7 +22,10 @@
 #grafana/grafana:11.4.0
 #ollama web-ui
 #ghcr.io/open-webui/open-webui:main
-rustfs/rustfs:1.0.0-alpha.83
+#rustfs/rustfs:1.0.0-alpha.83
+mysql:8.4
+valkey/valkey:8.1.5-alpine
+mcr.microsoft.com/mssql/server:2022-latest
 
 
 #支持私库
